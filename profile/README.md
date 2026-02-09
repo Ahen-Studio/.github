@@ -10,7 +10,7 @@ We are a company called Ahen-Studio. We do several things such as:
 
 ## Main Repositorie📑
 
-- [skypy-db](https://github.com/Ahen-Studio/skypy-db)
+- [skypydb](https://github.com/Ahen-Studio/skypydb)
 
 - [the-skypydb-dashboard](https://github.com/Ahen-Studio/the-skypydb-dashboard)
 
