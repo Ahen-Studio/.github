@@ -10,8 +10,8 @@ We are a company called Ahen-Studio. We do several things such as:
 
 ## Main Repositorie📑
 
-- [skypydb](https://github.com/Ahen-Studio/skypydb)
+- [Mesosphere](https://github.com/Ahen-Studio/mesosphere-backend)
 
 ## Resource🛠️
 
-- [docs](https://ahen.mintlify.app/) Learn the basics and get started with skypydb
+- [docs](https://mesosphere.ahen-studio.com/docs) Learn the basics and get started with Mesosphere
